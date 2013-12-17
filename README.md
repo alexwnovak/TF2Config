@@ -4,6 +4,9 @@ This is my TF2 setup for binds, class configuration, etc. Feel free to clone, do
 
 ## Todo
 
+- Input
+  - Enable raw input
+  - Set mouse sensitivity
 - Class configs
   - Selectively displaying view models for certain weapons
 - Binds
