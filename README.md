@@ -4,20 +4,11 @@ This is my TF2 setup for binds, class configuration, etc. Feel free to clone, do
 
 ## Todo
 
-- Input
-  - Enable raw input
-  - Set mouse sensitivity
 - Class configs
-  - Selectively displaying view models for certain weapons
+  - Pyro: For secondary slot, M2 should fire, as well as M1
 - Binds
-  - Self-explode
+  - Move table-flip off Caps Lock
   - Toggle action button
-- Hit sound
-  - Custom hit sound
-  - Frequency modifier
-- Damage indicator
-  - Enabled
-  - Big and yellow
 - Installer of some sort
   - Should back up existing settings if possible
   - Install HUD?
