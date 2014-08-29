@@ -19,3 +19,7 @@ This is my TF2 setup for binds, class configuration, etc. Feel free to clone, do
   - Should back up existing settings if possible
   - Install HUD?
   
+## Miscellaneous notes
+
+- Combat text batching
+- Lower sensitivity when zooming (M2) with Sniper
